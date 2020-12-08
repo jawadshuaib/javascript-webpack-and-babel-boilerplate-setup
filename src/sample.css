@@ -1,0 +1,8 @@
+/* css added in dev mode will be added dynamically to the index.html page under style tags using webpack */
+body {
+  background-color: crimson;
+  color: #fff;
+  font-size: 5em;
+  text-align: center;
+  padding-top: 200px;
+}
